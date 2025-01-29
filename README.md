@@ -21,8 +21,3 @@
 - 📧 Email: [jorgeluiscorralesbarraza272@gmail.com](jorgeluiscorralesbarraza272@gmail.com)
 - 💼 LinkedIn: [Jorge Corrales](https://www.linkedin.com/in/jorge-corrales-a90992330/)
 
-### Estadísticas de GitHub 📊
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tusuario&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tusuario&layout=compact&theme=radical)
