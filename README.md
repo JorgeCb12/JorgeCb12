@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy [Jorge Corrales] 👋
 
-<!--
-**JorgeCb12/JorgeCb12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador FrondEnd 🚀
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con experiencia en tecnologías como HTML, CSS, JavaScript, React, Vite, PHP, y más. Me encanta construir aplicaciones web eficientes y escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías y Herramientas 🛠️
+
+- **Frontend**: HTML, CSS, JavaScript, React, Vite
+- **Backend**: PHP, Node.js
+- **Herramientas**: Git, GitHub, VSCode
+- **Bases de Datos**: MySQL, MongoDB
+
+### Proyectos Destacados 🌟
+
+- [Proyecto 1](https://github.com/JorgeCb12/PortafolioJorge): Este es mi portafolio donde muestro mis habilidades y mis proyectos y un lugar donde pueden contactarme.
+- [Proyecto 2](https://github.com/JorgeCb12/App-Pokemon): Es proyecto sobre pokedex, que muestra informacion basica sobre los pokemon, con una interacion amigable y intuitiva.
+
+### Contacto 📫
+
+- 📧 Email: [jorgeluiscorralesbarraza272@gmail.com](jorgeluiscorralesbarraza272@gmail.com)
+- 💼 LinkedIn: [Jorge Corrales](https://www.linkedin.com/in/jorge-corrales-a90992330/)
+
+### Estadísticas de GitHub 📊
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tusuario&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tusuario&layout=compact&theme=radical)
