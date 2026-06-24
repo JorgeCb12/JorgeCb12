@@ -2,7 +2,7 @@
 
 # Jorge Corrales
 
-### Frontend Developer • React • TypeScript • Full Stack Learning Path
+### Frontend Developer | React | TypeScript | Full Stack Learning Path
 
 Building web applications with a focus on user experience, scalability and clean code.
 
