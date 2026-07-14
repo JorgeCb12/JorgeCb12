@@ -1,89 +1,123 @@
 <div align="center">
 
-# Jorge Corrales
-
-### Frontend Developer | React | TypeScript | Full Stack Learning Path
-
-Building web applications with a focus on user experience, scalability and clean code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jorge%20Corrales&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Full%20Stack%20Learning%20Path&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,php,mysql,mongodb,git,github,vscode,figma" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Clean+code+%7C+Great+UX+%7C+Modern+stack;Always+learning%2C+always+shipping" alt="Typing SVG" />
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-corrales-a90992330/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeluiscorralesbarraza272@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgeCb12)
 
 </div>
 
----
+<br>
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-I am a web developer focused on creating modern, responsive and user-friendly applications.
+<br>
 
-My main stack revolves around React, TypeScript, JavaScript and MySQL. I enjoy transforming ideas into products while applying good development practices, version control and agile methodologies.
+<table width="100%">
+  <tr>
+    <td>
 
-Currently expanding my knowledge in backend development, software architecture and database design.
+I'm a web developer focused on creating **modern, responsive and user-friendly** applications. My main stack revolves around **React, TypeScript, JavaScript and MySQL**. I enjoy transforming ideas into products while applying good development practices, version control and agile methodologies.
 
----
+Currently expanding my knowledge in **backend development, software architecture and database design**.
 
-## Tech Stack
+</td>
+  </tr>
+</table>
 
-### Frontend
+<br>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Tech%20Stack&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-### Backend
+<br>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+<table width="100%">
+  <tr>
+    <td width="140" valign="middle"><img src="https://img.shields.io/badge/LANGUAGES-6E40C9?style=flat-square" /></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=js,ts,python" /></td>
+  </tr>
+  <tr>
+    <td width="140" valign="middle"><img src="https://img.shields.io/badge/FRAMEWORKS-1C7ED6?style=flat-square" /></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=react,tailwind" /></td>
+  </tr>
+  <tr>
+    <td width="140" valign="middle"><img src="https://img.shields.io/badge/BACKEND-2F9E44?style=flat-square" /></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
+  </tr>
+  <tr>
+    <td width="140" valign="middle"><img src="https://img.shields.io/badge/DATABASES-E8590C?style=flat-square" /></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=mysql,postgresql" /></td>
+  </tr>
+  <tr>
+    <td width="140" valign="middle"><img src="https://img.shields.io/badge/TOOLS-495057?style=flat-square" /></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=materialui,vite,git,github,figma,trello,vscode" /></td>
+  </tr>
+</table>
 
-### Databases
+<br>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-### Tools
+<br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge\&logo=webpack)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio Website</h3>
+      <p align="center">Personal portfolio showcasing my projects, skills and professional journey.</p>
+      <p align="center">
+        <a href="https://github.com/JorgeCb12/PortafolioJorge">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Pokédex App</h3>
+      <p align="center">Interactive application consuming external APIs to display Pokémon information dynamically.</p>
+      <p align="center">
+        <a href="https://github.com/JorgeCb12/App-Pokemon">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-## Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=GitHub%20Stats&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-### Portfolio Website
+<br>
 
-Personal portfolio showcasing my projects, skills and professional journey.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JorgeCb12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCb12&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</div>
 
-🔗 github.com/JorgeCb12/PortafolioJorge
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeCb12&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
 
-### Pokédex App
+<br>
 
-Interactive application consuming external APIs to display Pokémon information dynamically.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Connect%20With%20Me&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-🔗 github.com/JorgeCb12/App-Pokemon
+<br>
 
----
+<div align="center">
 
-## GitHub Stats
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-corrales-a90992330/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeluiscorralesbarraza272@gmail.com)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JorgeCb12&show_icons=true" />
+<br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCb12&layout=compact" />
-
----
-
-## Connect With Me
-
-LinkedIn:
-[www.linkedin.com/in/jorge-corrales-a90992330/](http://www.linkedin.com/in/jorge-corrales-a90992330/)
-
-Email:
-[jorgeluiscorralesbarraza272@gmail.com](mailto:jorgeluiscorralesbarraza272@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
