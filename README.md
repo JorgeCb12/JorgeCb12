@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jorge%20Corrales&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Full%20Stack%20Learning%20Path&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jorge%20Corrales&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Frontend%20%7C%20React%20%7C%20TypeScript%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Clean+code+%7C+Great+UX+%7C+Modern+stack;Always+learning%2C+always+shipping" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&width=600&lines=Frontend+Developer+en+evoluci%C3%B3n+a+Full+Stack)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Sobre%20M%C3%AD&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <br>
 
@@ -24,9 +24,9 @@
   <tr>
     <td>
 
-I'm a web developer focused on creating **modern, responsive and user-friendly** applications. My main stack revolves around **React, TypeScript, JavaScript and MySQL**. I enjoy transforming ideas into products while applying good development practices, version control and agile methodologies.
+Soy desarrollador web enfocado en crear aplicaciones **modernas, responsivas y centradas en el usuario**. Mi stack principal gira en torno a **React, TypeScript, JavaScript y MySQL**. Disfruto transformar ideas en productos aplicando buenas prácticas de desarrollo, control de versiones y metodologías ágiles.
 
-Currently expanding my knowledge in **backend development, software architecture and database design**.
+Actualmente estoy ampliando mis conocimientos en **desarrollo backend, arquitectura de software y diseño de bases de datos**.
 
 </td>
   </tr>
@@ -34,13 +34,13 @@ Currently expanding my knowledge in **backend development, software architecture
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Tech%20Stack&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Stack%20Tecnol%C3%B3gico&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <br>
 
 <table width="100%">
   <tr>
-    <td width="140" valign="middle"><img src="https://img.shields.io/badge/LANGUAGES-6E40C9?style=flat-square" /></td>
+    <td width="140" valign="middle"><img src="https://img.shields.io/badge/LENGUAJES-6E40C9?style=flat-square" /></td>
     <td valign="middle"><img src="https://skillicons.dev/icons?i=js,ts,python" /></td>
   </tr>
   <tr>
@@ -49,41 +49,41 @@ Currently expanding my knowledge in **backend development, software architecture
   </tr>
   <tr>
     <td width="140" valign="middle"><img src="https://img.shields.io/badge/BACKEND-2F9E44?style=flat-square" /></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,supabase" /></td>
   </tr>
   <tr>
-    <td width="140" valign="middle"><img src="https://img.shields.io/badge/DATABASES-E8590C?style=flat-square" /></td>
+    <td width="140" valign="middle"><img src="https://img.shields.io/badge/BASES%20DE%20DATOS-E8590C?style=flat-square" /></td>
     <td valign="middle"><img src="https://skillicons.dev/icons?i=mysql,postgresql" /></td>
   </tr>
   <tr>
-    <td width="140" valign="middle"><img src="https://img.shields.io/badge/TOOLS-495057?style=flat-square" /></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=materialui,vite,git,github,figma,trello,vscode" /></td>
+    <td width="140" valign="middle"><img src="https://img.shields.io/badge/HERRAMIENTAS-495057?style=flat-square" /></td>
+    <td valign="middle"><img src="https://skillicons.dev/icons?i=materialui,vite,git,github,figma,vscode,postman" /></td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Proyectos%20Destacados&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <br>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio Website</h3>
-      <p align="center">Personal portfolio showcasing my projects, skills and professional journey.</p>
+      <h3 align="center">Portafolio Personal</h3>
+      <p align="center">Sitio web personal que muestra mis proyectos, habilidades y trayectoria profesional.</p>
       <p align="center">
         <a href="https://github.com/JorgeCb12/PortafolioJorge">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Pokédex App</h3>
-      <p align="center">Interactive application consuming external APIs to display Pokémon information dynamically.</p>
+      <p align="center">Aplicación interactiva que consume APIs externas para mostrar información de Pokémon de forma dinámica.</p>
       <p align="center">
         <a href="https://github.com/JorgeCb12/App-Pokemon">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -92,11 +92,9 @@ Currently expanding my knowledge in **backend development, software architecture
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=GitHub%20Stats&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Estad%C3%ADsticas%20de%20GitHub&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <br>
-
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeCb12&theme=tokyonight&hide_border=true&background=00000000" />
@@ -104,7 +102,7 @@ Currently expanding my knowledge in **backend development, software architecture
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Connect%20With%20Me&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Cont%C3%A1ctame&fontSize=26&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <br>
 
