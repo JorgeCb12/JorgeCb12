@@ -24,38 +24,40 @@
 <tr>
 <td width="62%" valign="top" style="border: 1px solid #30363d; background-color: #0d1117; border-radius: 12px; padding: 24px;">
 
-<sub>01 / PERFIL</sub>
+<sub>01 / PERFIL PROFESIONAL</sub>
 
-### Ingeniería de producto, de principio a producción.
+### Desarrollo Full Stack y Arquitectura de Software.
 
-Soy desarrollador de software **Full Stack** y disfruto convertir ideas en productos digitales útiles, sólidos y escalables. Me involucro en todo el ciclo: desde diseñar experiencias claras y construir funcionalidades hasta desarrollar APIs, modelar datos y desplegar aplicaciones.
+Soy un Desarrollador de Software Full Stack con una base sólida en el ecosistema Frontend y experiencia práctica en el desarrollo de Backend e infraestructura. Mi trabajo abarca el ciclo de vida del software: desde la creación de interfaces en React, hasta el diseño de APIs REST con Node.js y Python (FastAPI), el modelado de bases de datos relacionales y la automatización de despliegues.
 
-Mi perspectiva combina **desarrollo, arquitectura e infraestructura**. Busco entender el sistema de extremo a extremo para tomar decisiones bien fundamentadas, crear soluciones mantenibles y llevarlas con confianza a producción.
+Me enfoco en la **separación de responsabilidades**, la **seguridad en las comunicaciones** (JWT) y la creación de código mantenible. Aplico principios de arquitectura para construir soluciones escalables, documentadas y listas para entornos de producción.
 
 <br/>
 
-<code>IDEA</code> &nbsp;→&nbsp; <code>DISEÑO</code> &nbsp;→&nbsp; <code>BUILD</code> &nbsp;→&nbsp; <code>DEPLOY</code>
+<code>Frontend</code> &nbsp;→&nbsp; <code>API REST</code> &nbsp;→&nbsp; <code>PostgreSQL</code> &nbsp;→&nbsp; <code>Docker / CI-CD</code>
 
 </td>
 <td width="38%" valign="top" style="border: 1px solid #30363d; background-color: #0d1117; border-radius: 12px; padding: 24px;">
 
-<sub>02 / ENFOQUE</sub>
+<sub>02 / ENFOQUE TÉCNICO</sub>
 
-### Construyo en varias capas
+**Arquitectura y Patrones**
+Implementación de microservicios desacoplados, uso del patrón Repository-Service y control de flujos mediante máquinas de estado.
 
-<p><strong>Full Stack</strong><br/>Interfaces y funcionalidades conectadas de punta a punta.</p>
+<br/>
 
-<p><strong>Arquitectura Cloud</strong><br/>Sistemas pensados para ser claros, confiables y escalables.</p>
+**Calidad y Seguridad**
+Desarrollo con tipado estricto (TypeScript y Python), validación de esquemas en el backend y protección de rutas mediante roles y verificación de tokens.
 
-<p><strong>Automatización</strong><br/>Flujos CI/CD para reducir fricción entre desarrollo y producción.</p>
+<br/>
 
-<hr/>
-
-<sub>Siempre aprendiendo. Siempre mejorando.</sub>
+**DevOps**
+Orquestación de entornos con Docker Compose, configuración de pipelines de integración continua (CI/CD) y despliegue en servicios cloud.
 
 </td>
 </tr>
 </table>
+
 
 ## 02 — Áreas de desarrollo
 
