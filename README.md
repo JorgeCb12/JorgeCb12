@@ -6,13 +6,11 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=650&height=30&lines=Full+Stack+Developer+%7C+Cloud+%26+DevOps;Construyendo+soluciones+digitales;Del+c%C3%B3digo+a+producci%C3%B3n" alt="Especialidad profesional" />
 
-  <br/><br/>
+<br/><br/>
 
-  <p>
-    <a href="https://www.linkedin.com/in/jorge-corrales-a90992330/"><b>LinkedIn</b></a> 
-    &nbsp;&nbsp;•&nbsp;&nbsp; 
-    <a href="mailto:jorgeluiscorralesbarraza272@gmail.com"><b>Email</b></a>
-  </p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22)](https://www.linkedin.com/in/jorge-corrales-a90992330/)
+  &nbsp;
+  [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22)](mailto:jorgeluiscorralesbarraza272@gmail.com)
 
   <br/>
 
@@ -22,30 +20,38 @@
 
 ## 01 — Sobre mí
 
-<table>
+<table width="100%" style="border-collapse: separate; border-spacing: 8px;">
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top" style="border: 1px solid #30363d; background-color: #0d1117; border-radius: 12px; padding: 24px;">
 
-Soy desarrollador de software Full Stack, enfocado en construir aplicaciones modernas, funcionales y escalables.
+<sub>01 / PERFIL</sub>
 
-Me gusta participar en todo el ciclo de desarrollo: desde el diseño de interfaces y la construcción de funcionalidades hasta el desarrollo de APIs, gestión de bases de datos, configuración de infraestructura y despliegue en producción.
+### Ingeniería de producto, de principio a producción.
 
-Me interesa comprender cómo funcionan las tecnologías detrás de cada aplicación y crear soluciones completas, combinando desarrollo, arquitectura de software e infraestructura.
+Soy desarrollador de software **Full Stack** y disfruto convertir ideas en productos digitales útiles, sólidos y escalables. Me involucro en todo el ciclo: desde diseñar experiencias claras y construir funcionalidades hasta desarrollar APIs, modelar datos y desplegar aplicaciones.
+
+Mi perspectiva combina **desarrollo, arquitectura e infraestructura**. Busco entender el sistema de extremo a extremo para tomar decisiones bien fundamentadas, crear soluciones mantenibles y llevarlas con confianza a producción.
+
+<br/>
+
+<code>IDEA</code> &nbsp;→&nbsp; <code>DISEÑO</code> &nbsp;→&nbsp; <code>BUILD</code> &nbsp;→&nbsp; <code>DEPLOY</code>
 
 </td>
-<td width="35%" valign="top">
+<td width="38%" valign="top" style="border: 1px solid #30363d; background-color: #0d1117; border-radius: 12px; padding: 24px;">
 
-> **Mi enfoque**
-> 
-> Transformar ideas en productos digitales mediante código, ingeniería y aprendizaje continuo.
-> 
-> <br/>
-> 
-> **Foco Actual**
-> 
-> - Desarrollo Full Stack
-> - Arquitectura Cloud
-> - Automatización (CI/CD)
+<sub>02 / ENFOQUE</sub>
+
+### Construyo en varias capas
+
+<p><strong>Full Stack</strong><br/>Interfaces y funcionalidades conectadas de punta a punta.</p>
+
+<p><strong>Arquitectura Cloud</strong><br/>Sistemas pensados para ser claros, confiables y escalables.</p>
+
+<p><strong>Automatización</strong><br/>Flujos CI/CD para reducir fricción entre desarrollo y producción.</p>
+
+<hr/>
+
+<sub>Siempre aprendiendo. Siempre mejorando.</sub>
 
 </td>
 </tr>
@@ -128,9 +134,9 @@ Contenedores, Linux, servidores, configuración y automatización de despliegues
 </table>
 
 <p>
-<img src="https://img.shields.io/badge/SCRUM-0D1117?style=flat-square" alt="Scrum"/>
-<img src="https://img.shields.io/badge/JIRA-0D1117?style=flat-square&amp;logo=jira&amp;logoColor=2684FF" alt="Jira"/>
-<img src="https://img.shields.io/badge/GIT-0D1117?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/SCRUM-161B22?style=for-the-badge&amp;labelColor=30363D&amp;color=161B22" alt="Scrum"/>
+<img src="https://img.shields.io/badge/JIRA-161B22?style=for-the-badge&amp;logo=jira&amp;logoColor=2684FF&amp;labelColor=30363D" alt="Jira"/>
+<img src="https://img.shields.io/badge/GIT-161B22?style=for-the-badge&amp;logo=git&amp;logoColor=F05032&amp;labelColor=30363D" alt="Git"/>
 </p>
 
 <br/>
@@ -266,18 +272,31 @@ Aprendizaje continuo, experimentación y mejora constante.
 <br/>
 
 <div align="center">
-  <p><code>jorge@github:~$ sudo apt-get install new_opportunities</code></p>
-  <p>[ OK ] Conexión establecida. Abierto a colaboraciones.</p>
-  
+  <table>
+    <tr>
+      <td align="center">
+        <strong>jorge@github:~$</strong> <code>sudo apt-get install new_opportunities</code>
+        <br/><br/>
+        <samp>[ OK ] Conexión establecida. Abierto a colaboraciones.</samp>
+        <br/><br/>
+        <a href="mailto:jorgeluiscorralesbarraza272@gmail.com">
+          <img src="https://img.shields.io/badge/INICIAR_CONVERSACI%C3%93N-161B22?style=for-the-badge&amp;logo=gmail&amp;logoColor=58A6FF&amp;labelColor=30363D" alt="Iniciar conversación por email"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/><br/>
+
+---
+
+<div align="center">
+  <sub>DISEÑADO Y DESARROLLADO POR</sub>
   <br/>
-
-  <a href="mailto:jorgeluiscorralesbarraza272@gmail.com">
-  <img src="https://img.shields.io/badge/INICIAR_CONVERSACIÓN-FFFFFF?style=for-the-badge&amp;logo=gmail&amp;logoColor=000000" alt="Contacto"/>
-  </a>
-
+  <strong>Jorge Corrales</strong>
   <br/><br/>
+  <sub>© 2026 · Construyendo con propósito</sub>
+</div>
 
-  <sub>Diseñado y desarrollado por Jorge Corrales.</sub>
-
-  <sub>© 2026 · Construyendo con propósito.</sub>
 </div>
